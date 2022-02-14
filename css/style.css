@@ -1,0 +1,130 @@
+body{
+    margin: 0%;
+}
+header{
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+    width: 1535px;
+    height: 78px;
+    background-color: skyblue;
+}
+.logo{
+    width: 150px;
+    margin-top: 30px;
+}
+h1{
+    margin-block-end: 0%;
+}
+.part1{
+    color: grey;
+    margin-block-start: 0%;
+    margin-block-end: 0%; 
+}
+.part2{
+    color: skyblue;
+    margin-block-start: 0%;
+    margin-block-end: 0%; 
+}
+.data{
+    color: grey;
+    margin-block-start: 0%;
+}
+.photo1{
+    font-size: xx-small;
+    margin-block-start: 0%;
+}
+.photo2{
+    font-size: xx-small;
+    margin-block-start: 0%;
+
+}
+.evidenzia{
+    background-color: yellow;
+}
+ul{
+    padding-left: 1%;
+}
+.row{
+    background-color: blueviolet;
+}
+.row-left{
+    display: inline-block;
+    width: 300px;
+    color: white;
+}
+.row-right{
+    display: inline-block;
+    width: 300px;
+    color: white;
+}
+.row-right2{
+    display: inline-block;
+    width: 300px;
+    color: white;
+}
+.second{
+    background-color: skyblue;
+}
+.second1{
+    display: inline-block;
+    width: 300px;
+}
+.second2{
+    display: inline-block;
+    width: 300px;
+}
+.second3{
+    display: inline-block;
+    width: 300px;
+}
+.third{
+    background-color: white;
+}
+.third1{
+    display: inline-block;
+    width: 300px;
+}
+.third2{
+    display: inline-block;
+    width: 300px;
+}
+.third3{
+    display: inline-block;
+    width: 300px;
+}
+.fourth{
+    background-color: skyblue;
+}
+.fourth1{
+    display: inline-block;
+    width: 300px;
+}
+.fourth2{
+    display: inline-block;
+    width: 300px;
+}
+.fourth3{
+    display: inline-block;
+    width: 300px;
+}
+h3{
+    color: grey;
+}
+.footer1{
+    background-image: url(../img/monitor.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    padding-bottom: 0%;
+    color: white;
+    
+}
+.footer2{
+    background-image: url(../img/graph.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    color: white;
+}
